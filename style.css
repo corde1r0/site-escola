@@ -1,3 +1,6 @@
 .cabecalho{
-    background-color: aqua;
+    background-color: rgb(17, 19, 19);
+    color: azure;
+    display: flex;
+    padding: 24px 0;
 }
